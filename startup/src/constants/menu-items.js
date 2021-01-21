@@ -24,7 +24,7 @@ export const mainMenuItems = [
 export const socialMenuItems = [
   {
     icon: <FaLinkedin />,
-    url: "https://www.linkedin.com/in/morgan-baker-developer-inverness",
+    url: "https://www.linkedin.com/in/walisson",
     name: "LinkedIn",
   },
   {
@@ -34,7 +34,7 @@ export const socialMenuItems = [
   },
   {
     icon: <DiGithubBadge />,
-    url: "https://github.com/bagseye",
+    url: "https://github.com/walissoncom",
     name: "GitHub",
   },
 ]
